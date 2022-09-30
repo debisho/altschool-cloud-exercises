@@ -52,3 +52,34 @@ Command 9: 'ip a'-used to assign IP addresses, initialize and disable interfaces
 Command 10: 'diff (file1) (file2)'-compares two files line-by-line
 ![diff-command](./exercise-2/cmd-10%20diff.png 'diff-command')
 
+
+# Solution to exercise-three
+
+Contents of /etcpasswd
+![cat-passwd](./exercise-3/cat-passwd.png 'cat-passwd')
+<br>
+
+Contents of /etc/group
+![cat-group1](./exercise-3/cat-group1.png 'cat-group2')
+<br>
+
+![cat-group2](./exercise-3/cat-group2.png 'cat-group2')
+<br>
+
+Contents of /etc/sudoers
+![cat-sudoers](./exercise-3/cat-sudoers.png 'cat-sudoers')
+<br>
+
+# Solution to exercise-four
+
+Contents of /etc/apt/sources.list
+![sources](./exercise-4/cat%20php%20sources.list.png 'sources')
+<br>
+
+Contents of php-v
+![php-v](./exercise-4/php%20-v.png 'php-v')
+<br>
+
+Contents of git config, git remote, git log
+![git-config-log](./exercise-6/git%20config%2C%20remote%2Clog.png 'git-config-log')
+<br>
